@@ -1,6 +1,5 @@
-Meyawo Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Martin Free landing page for personal and commercial use. Designed with ♥️ and creativity 
 
-Product Page: https://wwww.devcrud.com/
 
 Credits:
 
